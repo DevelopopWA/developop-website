@@ -4,9 +4,9 @@ import { DocsThemeConfig } from 'nextra-theme-docs'
 const config: DocsThemeConfig = {
   logo: <span>DeveloPop</span>,
   project: {
-    link: 'https://github.com/Spherrrical/developop-website',
+    link: 'https://github.com/DevelopopWA/developop-website',
   },
-  docsRepositoryBase: 'https://github.com/Spherrrical/developop-website',
+  docsRepositoryBase: 'https://github.com/DevelopopWA/developop-website',
   footer: {
     text: 'Developed by Musa',
   },

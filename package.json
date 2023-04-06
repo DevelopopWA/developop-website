@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Spherrrical/developop-website.git"
+    "url": "git+https://github.com/DevelopopWA/developop-website.git"
   },
-  "author": "Shu Ding <g@shud.in>",
+  "author": "Musa Malik",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/DevelopopWA/developop-website/issues"
   },
-  "homepage": "https://github.com/Spherrrical/developop-website#readme",
+  "homepage": "https://github.com/DevelopopWA/developop-website#readme",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",

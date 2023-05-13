@@ -1,7 +1,7 @@
 {
   "index": "Introduction",
-  "android": "Android",
   "ios": "iOS",
+  "android": "Android",
   "about": {
     "title": "About",
     "type": "page"
